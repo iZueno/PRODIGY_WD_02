@@ -31,13 +31,13 @@ body {
   transition: background-color 0.3s ease;
 }
 
-/* Default button colors */
+/* Button colors */
 #start { background-color: #28a745; color: white; }
 #pause { background-color: #ffc107; color: white; }
 #reset { background-color: #dc3545; color: white; }
 #lap   { background-color: #007bff; color: white; }
 
-/* Hover effect for each button */
+/* Hover effect */
 #start:hover { background-color: #218838; color: black; }
 #pause:hover { background-color: #e0a800; color: black; }
 #reset:hover { background-color: #c82333; color: black; }
